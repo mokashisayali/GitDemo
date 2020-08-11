@@ -12,9 +12,17 @@ public class SeleniumTest {
 		System.out.println("BrowserAUtomation");
 
 		System.out.println("WebAutomation");
+		System.out.println("Branching");
+		
 	}
 	@Test
 	public void elementsUi()
+	{
+		System.out.println("elementsUi");	
+	}
+	
+	@Test
+	public void elementsUicopy()
 	{
 		System.out.println("elementsUi");	
 	}
